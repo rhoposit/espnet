@@ -32,6 +32,7 @@ use_valbest_average=true     # if true, the validation `n_average`-best NMT mode
 
 # Set this to somewhere where you want to put your data, or where
 # someone else has already put it.
+#/home/smg/v-j-williams/workspace/evaluation/forced_alignments/s2s/en-de
 iwslt16=iwslt16_data
 
 # target language related
